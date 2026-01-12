@@ -5,8 +5,6 @@ This project focuses on predicting the compressive strength of construction mate
 
 The aim is to demonstrate how domain knowledge from **physics and materials science** can enhance traditional data-driven models, improving both **prediction accuracy** and **interpretability**.
 
-This project is designed to be portfolio-ready and suitable for showcasing on GitHub and resumes.
-
 ---
 
 ## Dataset Description
@@ -25,12 +23,10 @@ The dataset consists of real-world material composition and curing parameters co
 ### Target Variable
 - **Concrete Compressive Strength (MPa)**
 
-All features are numerical, making this a supervised regression problem.
-
 ---
 
 ##  Methodology
-The project follows a structured data science workflow:
+The project follows a structured workflow:
 
 1. Data understanding and inspection  
 2. Exploratory Data Analysis (EDA)  
@@ -42,18 +38,7 @@ The project follows a structured data science workflow:
 
 ---
 
-## Machine Learning Models
-The following regression models are explored and compared:
-
-- Linear Regression (baseline)
-- Ridge and Lasso Regression
-- Random Forest Regressor
-- Gradient Boosting / XGBoost
-- Support Vector Regression (SVR)
-
----
-
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 Model performance is evaluated using:
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Error (MAE)
@@ -83,6 +68,3 @@ These insights connect machine learning results with real physical behavior.
 - Jupyter Notebook
 
 ---
-
-## 📁 Project Structure
-
