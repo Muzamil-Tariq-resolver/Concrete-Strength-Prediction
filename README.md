@@ -74,5 +74,4 @@ Key findings connecting ML results to concrete physics:
 | Coarse Aggregate              | 945   | kg/m³      |
 | Fine Aggregate                | 756   | kg/m³      |
 | Curing Age                    | 91    | days       |
-| Water-to-Cement Ratio (WCR
 
