@@ -25,7 +25,6 @@ The dataset contains **1030 real-world concrete samples** capturing material com
 
 - Concrete Compressive Strength (MPa)  
 
-
 ---
 
 ## Methodology
