@@ -35,7 +35,7 @@ The workflow of the project includes:
 3. **Physics-Informed Feature Engineering** – Create Water–Cement Ratio (WCR), Age × WCR, and other domain-driven features.    
 4. **Model Evaluation and Validation** – Use RMSE, MAE, R², and cross-validation to ensure robustness.  
 5. **Interpretability and Insights** – Analyze feature importance, residuals, and identify optimal mix designs.
-6. **Deploying Model** Attaching model with DataBricks SQL Warehouse.
+6. **Deploying Model** - Attaching model with DataBricks SQL Warehouse.
 
 ---
 
